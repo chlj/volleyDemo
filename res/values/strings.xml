@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wcp_clj</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="defatlut_title">标题</string>
+    <string name="defatlut_content">内容</string>
+    <string name="share_url1">http://wcp.aixinxi.net/index.html</string>
+    <string name="share_url2">http://wcp.aixinxi.net/index_02.html</string>
+    <string name="share_url3">http://wcp.aixinxi.net/index_03.html</string>
+    <string name="share_url4">http://wcp.aixinxi.net/index_04.html</string>
+
+</resources>
