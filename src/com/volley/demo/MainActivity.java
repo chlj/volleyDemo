@@ -110,7 +110,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private void share(final String title, String pic, final String url, final String content) {
 
 		if ("".equals(pic)) {
-			pic = "http://3d414.com/Tpl/default/images/view/logo.png";
+			pic = "http://wcp.aixinxi.net/share.png";
 
 		}
 

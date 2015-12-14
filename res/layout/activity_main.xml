@@ -29,31 +29,31 @@
                 android:minHeight="100dp" >
             </EditText>
 
-            <Button
+          <Button
                 android:id="@+id/btn1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="btn1" />
+                android:text="自己好友用" />
 
             <Button
                 android:id="@+id/btn2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="btn2" >
+                android:text="媳妇好友用" >
             </Button>
 
             <Button
                 android:id="@+id/btn3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="btn3" >
+                android:text="媳妇屋的用" >
             </Button>
 
             <Button
                 android:id="@+id/btn4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="btn4" >
+                android:text="备用" >
             </Button>
         </LinearLayout>
     </ScrollView>
